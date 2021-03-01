@@ -1,0 +1,12 @@
+# zendogdog: ~/zwww/rde/.up.git
+# 190118 002
+#
+git add .
+git status
+git commit -m "content update"
+gitpat
+git push github master
+# username on github: dyrehaugen
+# pwd: S-7
+gitpat.unset
+# EOF
