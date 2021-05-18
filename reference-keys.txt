@@ -4,6 +4,8 @@ scope-and-perspective
 holism-not-marginalism
 concepts
 complexity
+control
+adage
 about
 links
 news
