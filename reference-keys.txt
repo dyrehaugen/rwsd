@@ -6,6 +6,7 @@ concepts
 complexity
 control
 adage
+expertise-vs-wisdom
 about
 links
 news
